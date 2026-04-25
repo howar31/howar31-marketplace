@@ -1,0 +1,32 @@
+{
+  "name": "howar31",
+  "owner": {
+    "name": "Howar31",
+    "url": "https://github.com/howar31"
+  },
+  "metadata": {
+    "description": "Howar31's personal Claude Code plugin marketplace"
+  },
+  "plugins": [
+    {
+      "name": "magi-workflow",
+      "source": {
+        "source": "github",
+        "repo": "howar31/magi-workflow"
+      },
+      "description": "Multi-model engineering workflow with MAGI weighted voting and cross-CLI orchestration",
+      "homepage": "https://github.com/howar31/magi-workflow",
+      "repository": "https://github.com/howar31/magi-workflow",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "claude-code-plugin",
+        "code-review",
+        "magi",
+        "multi-model",
+        "workflow"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
