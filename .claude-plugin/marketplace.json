@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "magi-workflow",
+      "name": "magi",
       "source": {
         "source": "github",
         "repo": "howar31/magi-workflow"

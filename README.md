@@ -31,7 +31,7 @@ claude plugin marketplace add howar31/howar31-marketplace
 - **安裝**：
 
 ```bash
-claude plugin install magi-workflow@howar31
+claude plugin install magi@howar31
 ```
 
 完整功能說明見 [magi-workflow README](https://github.com/howar31/magi-workflow#readme)。
