@@ -36,6 +36,20 @@ claude plugin install magi@howar31
 
 完整功能說明見 [magi-workflow README](https://github.com/howar31/magi-workflow#readme)。
 
+### 🧠 mem（claude-memory）
+
+跨 cwd 記憶的 read / write skills，補強 Claude Code 內建 auto-memory：`/mem:recall` 跨所有專案目錄搜尋記憶、`/mem:memorize` 稽核當前對話並寫入。純檔案系統，無 vector DB、無 MCP。
+
+- **Source**: [howar31/claude-memory](https://github.com/howar31/claude-memory)
+- **License**: MIT
+- **安裝**：
+
+```bash
+claude plugin install mem@howar31
+```
+
+完整功能說明見 [claude-memory README](https://github.com/howar31/claude-memory#readme)。
+
 ## 為什麼有 personal marketplace？
 
 - **集中**：之後我發行新 plugin 都掛在這個 marketplace；使用者只要 `marketplace add` 一次，未來新 plugin 自動可見
