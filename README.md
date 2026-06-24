@@ -50,6 +50,20 @@ claude plugin install mem@howar31
 
 完整功能說明見 [claude-memory README](https://github.com/howar31/claude-memory#readme)。
 
+### 🌐 browser（browser-automation）
+
+操作真實（headless）瀏覽器，做 curl / HTTP 腳本做不到的事：點擊／輸入、截圖與 PDF、網路攔截／mock／觀察、CDP 層級除錯、跨瀏覽器 E2E（Puppeteer + Playwright）。model-invoked，依任務自動觸發。
+
+- **Source**: [howar31/browser-automation](https://github.com/howar31/browser-automation)
+- **License**: MIT
+- **安裝**：
+
+```bash
+claude plugin install browser@howar31
+```
+
+完整功能說明見 [browser-automation README](https://github.com/howar31/browser-automation#readme)。
+
 ## 為什麼有 personal marketplace？
 
 - **集中**：之後我發行新 plugin 都掛在這個 marketplace；使用者只要 `marketplace add` 一次，未來新 plugin 自動可見

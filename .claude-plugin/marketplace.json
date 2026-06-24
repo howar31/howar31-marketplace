@@ -46,6 +46,28 @@
         "skills"
       ],
       "category": "productivity"
+    },
+    {
+      "name": "browser",
+      "source": {
+        "source": "github",
+        "repo": "howar31/browser-automation"
+      },
+      "description": "Drive a real headless browser (Puppeteer + Playwright) — clicks, screenshots, PDFs, network intercept, CDP debugging, cross-browser E2E",
+      "homepage": "https://github.com/howar31/browser-automation",
+      "repository": "https://github.com/howar31/browser-automation",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "claude-code-plugin",
+        "puppeteer",
+        "playwright",
+        "browser-automation",
+        "headless-chrome",
+        "e2e-testing",
+        "web-scraping"
+      ],
+      "category": "productivity"
     }
   ]
 }
