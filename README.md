@@ -64,6 +64,20 @@ claude plugin install browser@howar31
 
 完整功能說明見 [browser-automation README](https://github.com/howar31/browser-automation#readme)。
 
+### 🤝 handoff
+
+把當前 session 存成 LLM-facing 的交接文件，讓下一個 agent（即使是不同模型、空白 context）能冷啟動接手：任務目標、現況、決策（含理由與被否決方案）、死路、硬限制、待解問題、下一步。`/handoff` 存檔、`/handoff load` 接續；model-invoked，也吃「做交接」「接續交接」等自然語句。
+
+- **Source**: [howar31/handoff](https://github.com/howar31/handoff)
+- **License**: MIT
+- **安裝**：
+
+```bash
+claude plugin install handoff@howar31
+```
+
+完整功能說明見 [handoff README](https://github.com/howar31/handoff#readme)。
+
 ## 為什麼有 personal marketplace？
 
 - **集中**：之後我發行新 plugin 都掛在這個 marketplace；使用者只要 `marketplace add` 一次，未來新 plugin 自動可見
