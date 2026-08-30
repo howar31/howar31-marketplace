@@ -2,7 +2,7 @@
 
 [![Marketplace](https://img.shields.io/badge/Claude%20Code-Marketplace-CC785C?style=for-the-badge)](https://github.com/howar31/howar31-marketplace)
 [![License: MIT](https://img.shields.io/github/license/howar31/howar31-marketplace?color=blue&style=for-the-badge)](LICENSE)
-[![Sponsor on Ko-fi](https://img.shields.io/badge/sponsor-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/howar31)
+[![Sponsor](https://img.shields.io/badge/Sponsor-donate.howar31.com-b4532c?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjg0IDQuNjFhNS41IDUuNSAwIDAgMC03Ljc4IDBMMTIgNS42N2wtMS4wNi0xLjA2YTUuNSA1LjUgMCAwIDAtNy43OCA3Ljc4bDEuMDYgMS4wNkwxMiAyMS4yM2w3Ljc4LTcuNzggMS4wNi0xLjA2YTUuNSA1LjUgMCAwIDAgMC03Ljc4eiIvPjwvc3ZnPg==)](https://donate.howar31.com/)
 
 > Howar31 個人的 Claude Code plugin marketplace。集中管理我所有公開發行的 plugins。
 
