@@ -78,6 +78,20 @@ claude plugin install handoff@howar31
 
 完整功能說明見 [handoff README](https://github.com/howar31/handoff#readme)。
 
+### ✅ closure
+
+在工作 session 結束前稽核整個 session，讓每個未結事項都有明確處置：當場解決、寫進文件、存進記憶、交接，或經同意後捨棄。檢查開場請求、中途事項、意外發現、只在對話中做出的決定，以及尚未 commit / push 的變更；有記憶、交接或文件類的 skill 時會交給它們處理，可搭配 mem 與 handoff。`/closure` 執行；model-invoked，也吃「還有未盡事宜嗎」「收工」等自然語句。
+
+- **Source**: [howar31/closure](https://github.com/howar31/closure)
+- **License**: MIT
+- **安裝**：
+
+```bash
+claude plugin install closure@howar31
+```
+
+完整功能說明見 [closure README](https://github.com/howar31/closure#readme)。
+
 ## 為什麼有 personal marketplace？
 
 - **集中**：之後我發行新 plugin 都掛在這個 marketplace；使用者只要 `marketplace add` 一次，未來新 plugin 自動可見

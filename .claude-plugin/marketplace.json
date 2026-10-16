@@ -92,6 +92,26 @@
         "agent-context"
       ],
       "category": "productivity"
+    },
+    {
+      "name": "closure",
+      "source": {
+        "source": "github",
+        "repo": "howar31/closure"
+      },
+      "description": "End-of-session audit that gives every open thread a disposition: resolved, documented, memorized, handed off, or dropped with approval",
+      "homepage": "https://github.com/howar31/closure",
+      "repository": "https://github.com/howar31/closure",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "claude-code-plugin",
+        "session",
+        "workflow",
+        "checklist",
+        "productivity"
+      ],
+      "category": "productivity"
     }
   ]
 }
