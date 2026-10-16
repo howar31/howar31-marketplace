@@ -24,7 +24,8 @@
         "code-review",
         "magi",
         "multi-model",
-        "workflow"
+        "workflow",
+        "spec-driven"
       ],
       "category": "productivity"
     },
@@ -34,7 +35,7 @@
         "source": "github",
         "repo": "howar31/claude-memory"
       },
-      "description": "Cross-cwd memory recall + write skills for Claude Code's prompt-based auto-memory",
+      "description": "Cross-cwd memory recall, write and upkeep skills for Claude Code's prompt-based auto-memory",
       "homepage": "https://github.com/howar31/claude-memory",
       "repository": "https://github.com/howar31/claude-memory",
       "license": "MIT",
@@ -43,7 +44,8 @@
         "claude-code-plugin",
         "memory",
         "recall",
-        "skills"
+        "skills",
+        "productivity"
       ],
       "category": "productivity"
     },
@@ -65,7 +67,8 @@
         "browser-automation",
         "headless-chrome",
         "e2e-testing",
-        "web-scraping"
+        "web-scraping",
+        "cdp"
       ],
       "category": "productivity"
     },
