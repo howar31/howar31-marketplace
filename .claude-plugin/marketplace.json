@@ -35,7 +35,7 @@
         "source": "github",
         "repo": "howar31/claude-memory"
       },
-      "description": "Cross-cwd memory recall, write and upkeep skills for Claude Code's prompt-based auto-memory",
+      "description": "Cross-project memory recall, write and upkeep skills for Claude Code's prompt-based auto-memory",
       "homepage": "https://github.com/howar31/claude-memory",
       "repository": "https://github.com/howar31/claude-memory",
       "license": "MIT",

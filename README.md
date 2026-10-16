@@ -38,7 +38,7 @@ claude plugin install magi@howar31
 
 ### 🧠 mem（claude-memory）
 
-跨 cwd 記憶的 read / write / 維護 skills，補強 Claude Code 內建 auto-memory：`/mem:recall` 跨所有專案目錄搜尋記憶、`/mem:memorize` 稽核當前對話並寫入、`/mem:tidy` 讓 `MEMORY.md` 維持在自動載入上限內（封存已結案項目、同類記錄收成總覽、repo 專屬記憶移到該 repo，先提案、不刪檔）。純檔案系統，無 vector DB、無 MCP。
+跨專案記憶的 read / write / 維護 skills，補強 Claude Code 內建 auto-memory：`/mem:recall` 跨所有專案搜尋記憶、`/mem:memorize` 稽核當前對話並寫入、`/mem:tidy` 讓 `MEMORY.md` 維持在自動載入上限內（封存已結案項目、同類記錄收成總覽、repo 專屬記憶移到該 repo，先提案、不刪檔）。純檔案系統，無 vector DB、無 MCP。
 
 - **Source**: [howar31/claude-memory](https://github.com/howar31/claude-memory)
 - **License**: MIT
