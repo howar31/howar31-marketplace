@@ -94,9 +94,9 @@ claude plugin install closure@howar31
 
 ## 為什麼有 personal marketplace？
 
-- **集中**：之後我發行新 plugin 都掛在這個 marketplace；使用者只要 `marketplace add` 一次，未來新 plugin 自動可見
+- **集中**：之後我發行新 plugin 都掛在這個 marketplace；使用者只要 `marketplace add` 一次；之後新增的 plugin，在執行 `claude plugin marketplace update howar31` 或於 `/plugin` → Marketplaces 開啟自動更新後就會出現在清單（Claude Code 預設不自動更新第三方 marketplace）
 - **不衝突**：每個 plugin 仍可獨立 self-host（例如 magi-workflow 自己也是個 single-plugin marketplace），給使用者多條安裝路徑選擇
 
 ## License
 
-MIT — 見 [LICENSE](LICENSE)。本 marketplace 列出的個別 plugin 各自有獨立 license（見上方各 plugin 連結）。
+MIT，見 [LICENSE](LICENSE)。本 marketplace 列出的個別 plugin 各自有獨立 license（見上方各 plugin 連結）。
